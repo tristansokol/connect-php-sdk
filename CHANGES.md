@@ -2,7 +2,7 @@
 
 ### Version 2.0.0.1 (2016-05-19)
 
-* Improve error messaging for API connection failures.
+* Improve error messaging for API connecton failures.
 
 ## Version 2.0.0 (2016-03-30)
 
